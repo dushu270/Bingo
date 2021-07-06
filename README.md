@@ -1,0 +1,1 @@
+This is a mini code for Bingo game. It is written in C++ programming language.
